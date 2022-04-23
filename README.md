@@ -21,7 +21,7 @@ Relevant File: **jana-netflix-project.ipynb**
 This module contains different ways of creating a Netflix homepage for you- recommending multiple movies taking into consideration your entire watch history.
 
 Based on: **Cosine Similarity Matrix**    
-Relevant Files: **Draft 2.ipynb** and **Draft 1.ipynb (older version)**   
+Relevant Files: **sanya-netflix-home.ipynb** and **Draft 1.ipynb (older version)**   
 
 Based on: **Keyword matching and weighted scores of number of episodes watched and days since watching**   
 Relevant File: **jarrett_prediction_algorithm.ipynb**   
