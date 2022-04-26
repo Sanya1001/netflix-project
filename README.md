@@ -26,6 +26,9 @@ Relevant Files: **sanya-netflix-home.ipynb** and **Draft 1.ipynb (older version)
 Based on: **Keyword matching and weighted scores of number of episodes watched and days since watching**   
 Relevant File: **jarrett_prediction_algorithm.ipynb**   
 
+Based on: **Title similarity in each genre using `difflib`**   
+Relevant File: **dan-homepage.ipynb**
+
 #### Other Resources
 - Data Cleaning and get functions for number of episodes, days since watching: **data_cleaning_function.ipynb** and **old_data_cleaning.ipynb (older version)**
 - Watch history data: **JarrettNetflixViewingHistory.csv**, **NetflixViewingHistoryDan.csv** and **NetflixViewingHistoryHome.csv**
